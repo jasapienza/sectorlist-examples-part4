@@ -1,0 +1,14 @@
+{
+  "name": "@jasapienza/part-4-sector-lists-experiment-2-random-polygons",
+  "main": "5743bb840ff114f8@392.js",
+  "version": "392.0.0",
+  "homepage": "https://observablehq.com/@jasapienza/part-4-sector-lists-experiment-2-random-polygons",
+  "author": {
+    "name": "jasapienza",
+    "url": "https://observablehq.com/@jasapienza"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
